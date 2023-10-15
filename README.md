@@ -28,5 +28,8 @@ The data used in this analysis can be obtained from [data set](https://www.kaggl
 
 ## Installation
 1. Clone this repository: <br>
-'''bash
 git clone https://github.com/yourusername/heart-disease-analysis.git
+1. Change directory:
+cd heart-disease-analysis
+
+
