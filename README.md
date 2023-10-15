@@ -28,8 +28,26 @@ The data used in this analysis can be obtained from [data set](https://www.kaggl
 
 ## Installation
 1. Clone this repository: <br>
-git clone https://github.com/yourusername/heart-disease-analysis.git
+git clone https://github.com/satyaprakash2002/Heart-Disease-Analysis.git
 1. Change directory:
-cd heart-disease-analysis
+cd Heart-Disease-Analysis
 1. You can either download the dataset from the provided source link or use your own data. Place the data file in the project directory.
 
+## Usage
+Run the Jupyter Notebook or Python script to analyze the heart disease data.
+
+## Analysis
+- Data Loading: Load the heart disease dataset.
+- Data Exploration: Examine the dataset's structure, data types, and basic statistics.
+- Data Cleaning: Handle missing values and preprocess the data if necessary.
+- Data Visualization: Create visualizations using Seaborn and Matplotlib to explore patterns and relationships in the data.
+- Feature Analysis: Examine the significance of different features in relation to heart disease.
+- Model Building (if applicable): Build and evaluate predictive models to detect heart disease.
+
+## Contributing
+Contributions are welcome. You can contribute to this project by forking the repository, making your changes, and creating a pull request.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. <br>
+
+Note: Replace the image link, data source link, and other placeholders with actual information relevant to your project.
