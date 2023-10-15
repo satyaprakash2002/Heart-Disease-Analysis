@@ -48,6 +48,6 @@ Run the Jupyter Notebook or Python script to analyze the heart disease data.
 Contributions are welcome. You can contribute to this project by forking the repository, making your changes, and creating a pull request.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. <br>
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license. <br>
 
 Note: Replace the image link, data source link, and other placeholders with actual information relevant to your project.
