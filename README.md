@@ -8,8 +8,12 @@ Heart disease is a significant health concern worldwide. Analyzing heart disease
 ## Prerequisites
 Before you start, ensure you have the following libraries installed:
 
-Python (3.6+)
-Pandas
-Seaborn
-Matplotlib
+- Python (3.6+)
+- Pandas
+- Seaborn
+- Matplotlib
 You can install these libraries using pip:
+**pip install pandas seaborn matplotlib**
+
+## Data Source
+The data used in this analysis can be obtained from source link.
