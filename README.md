@@ -3,7 +3,7 @@ This repository contains Python code for analyzing heart disease data using popu
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [Prerequisites](#prerequisites)
-1. [Data Source](#data source)
+1. [Data Source](#datasource)
 1. [Installation](#installation)
 1. [Usage](#usage)
 1. [Analysis](#analysis)
