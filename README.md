@@ -31,5 +31,5 @@ The data used in this analysis can be obtained from [data set](https://www.kaggl
 git clone https://github.com/yourusername/heart-disease-analysis.git
 1. Change directory:
 cd heart-disease-analysis
-
+1. You can either download the dataset from the provided source link or use your own data. Place the data file in the project directory.
 
